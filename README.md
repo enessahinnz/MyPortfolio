@@ -16,9 +16,15 @@ Bu proje Murat Yücedağın Udemy de paylaştığı Portfolyo projesidir. ASP.NE
 <li>Microsoft.EntityFrameworkCore.SqlServer (6.0.3)</li>
 <li>Linq Sorguları</li>
 
+<h2>Kullanılan Teknolojiler</h2>
+<li>HTML5</li>
+<li>CSS3 (6.0.3)</li>
+<li>MSSQL</li>
+<li>Javascript</li>
+<li>Linq Sorguları</li>
+<li>C#</li>
 
-
-<h3> Ekran Görüntüleri</h3>
+<h3>Resimler</h3>
 
 ![page1](https://github.com/user-attachments/assets/3e30409c-bdd2-47a8-b203-f497d457e1f6)
 
