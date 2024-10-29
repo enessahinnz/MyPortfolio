@@ -8,7 +8,7 @@ Bu proje Murat Yücedağın Udemy de paylaştığı Portfolyo projesidir. ASP.NE
 <li>
   ASP.NET Core 6.0
 </li>
-<li>🔹 Microsoft.EntityFrameworkCore (6.0.3)
+<li>Microsoft.EntityFrameworkCore (6.0.3)
 </li>
 <li>Microsoft.EntityFrameworkCore.Design (6.0.3)</li>
 <li>Hazır Şablon Düzenlemesi</li>
@@ -18,7 +18,7 @@ Bu proje Murat Yücedağın Udemy de paylaştığı Portfolyo projesidir. ASP.NE
 
 
 
-Ekran Görüntüleri
+<h3> Ekran Görüntüleri</h3>
 
 ![page1](https://github.com/user-attachments/assets/3e30409c-bdd2-47a8-b203-f497d457e1f6)
 
